@@ -316,6 +316,4 @@ getlink()
 getlink()
 getlink()
 getlink()
-var valid = getlink();
-document.write("hello")
-document.write(valid) 
+
