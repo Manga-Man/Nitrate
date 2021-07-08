@@ -1,3 +1,3 @@
 # Nitrate
-Discord Nitro generator
+Discord Nitro generator <br>
 Its currently on progress...
