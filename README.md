@@ -1,0 +1,2 @@
+# Nitrate
+Discord nNitro generator
